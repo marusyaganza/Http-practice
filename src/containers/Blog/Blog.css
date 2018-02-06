@@ -5,3 +5,7 @@
     width: 80%;
     margin: auto;
 }
+.error {
+    text-align: center;
+    color: red;
+}
